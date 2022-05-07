@@ -10,13 +10,13 @@ Identifying a large number of species as a human is a difficult task. Though we 
 Complete EDA of the above datsets can be found [here](../main/EDA_Dog_Breed_Dataset)
 
 #### Classifiers
-1. Logistic Regression
-  a. One vs Rest
-  b. Multinomial
-2. Support Vector Machine
-  a. Generic SVM
-  b. SVM + CNN
-3. CNN
-  a. AlexNet
-  b. VGG-19
-  c. GoogLeNet
+* Logistic Regression
+  * One vs Rest
+  * Multinomial
+* Support Vector Machine
+  * Generic SVM
+  * SVM + CNN
+* CNN
+  * AlexNet
+  * VGG-19
+  * GoogLeNet
